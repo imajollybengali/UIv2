@@ -1,0 +1,2077 @@
+@import url('https://fonts.googleapis.com/css?family=Biryani:400|Fjalla+One:400|Just+Me+Again+Down+Here:400');
+
+@font-face {
+                          font-family: "Biryani-Black";
+                          src: url('../fonts/Biryani-Black.ttf') format("truetype");
+                        }
+
+/* ANIMA screen - portfolio */
+:root {
+  --auto-palette-color-1: rgba(255,255,255,1.0);
+}
+a {
+  text-decoration     : none;
+}
+
+
+
+a:hover
+{
+     color:inherit;
+     text-decoration:none;
+     cursor:pointer;
+}
+.portfolio .facebook-fJ50oW {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.portfolio .communications-HHJ3Ev {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 17px;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 23px;
+}
+.portfolio .auto-flex1-Uh7Rbi {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 3px;
+}
+.portfolio .overlap-group-jSOr7s {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 564px;
+  margin-left         : 20.0px;
+  margin-top          : 452px;
+  position            : relative;
+  width               : 1196px;
+}
+.portfolio .overlap-group1-u4BaOU {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 564px;
+  margin-left         : 10.0px;
+  margin-top          : 41px;
+  position            : relative;
+  width               : 1206px;
+}
+.portfolio .overlap-group2-fLzkbh {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 678px;
+  margin-left         : 1.0px;
+  margin-top          : 41px;
+  position            : relative;
+  width               : 1215px;
+}
+.portfolio .auto-flex-f2B8u6 {
+  align-items         : center;
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 263px;
+  justify-content     : flex-start;
+  margin-top          : -26px;
+  position            : relative;
+  width               : auto;
+}
+.portfolio .auto-flex2-h1FVnq {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 1px;
+  margin-top          : 1.0px;
+  position            : relative;
+  width               : 6px;
+}
+.portfolio .group-49-KbPhvN {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 34px;
+  position            : absolute;
+  top                 : 34px;
+  transform           : rotate(0deg);
+  width               : 8px;
+}
+.portfolio .stroke-50-x0pujy {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 34px;
+  position            : absolute;
+  top                 : 33px;
+  transform           : rotate(0deg);
+  width               : 9px;
+}
+.portfolio .group-54-e4xJ8F {
+  background-color    : rgba(255,255,255,0);
+  height              : 21px;
+  left                : 5px;
+  position            : absolute;
+  top                 : 51px;
+  transform           : rotate(0deg);
+  width               : 26px;
+}
+.portfolio .stroke-55-jAgMzW {
+  background-color    : rgba(255,255,255,0);
+  height              : 23px;
+  left                : 4px;
+  position            : absolute;
+  top                 : 50px;
+  transform           : rotate(0deg);
+  width               : 28px;
+}
+.portfolio .group-59-yWzGAf {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 7px;
+  position            : absolute;
+  top                 : 66px;
+  transform           : rotate(0deg);
+  width               : 13px;
+}
+.portfolio .a-meal-prep-and-groc-twJEBf {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-family         : "Biryani-Black", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  height              : auto;
+  left                : 80px;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 189px;
+  transform           : rotate(0deg);
+  width               : 270px;
+}
+.portfolio .variety-of-fruits-and-vegetables-952485-tZvXNY {
+  background-color    : rgba(255,255,255,0);
+  height              : 564px;
+  left                : 354px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 852px;
+}
+.portfolio .case-mockup-Ofbfpc {
+  background-color    : rgba(255,255,255,0);
+  height              : 507px;
+  left                : 819px;
+  position            : absolute;
+  top                 : 29px;
+  transform           : rotate(0deg);
+  width               : 304px;
+}
+.portfolio .case-study-2-cta-TUabxV {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 43px;
+  justify-content     : flex-start;
+  left                : 81px;
+  position            : absolute;
+  top                 : 394px;
+  transform           : rotate(0deg);
+  width               : auto;
+  transition: background-color 1s ease;
+}
+.portfolio .case-study-2-cta-TUabxV:hover {
+  background-color: white;
+}
+.portfolio .case-study-2-cta-TUabxV:hover p{
+  color: #45484B;
+}
+.portfolio .group-5-nuHAmH {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  border-color        : var(--auto-palette-color-1);
+  border-style        : solid;
+  border-width        : 2.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 43px;
+  justify-content     : flex-end;
+  min-width           : 223px;
+  padding             : 0 17.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.portfolio .view-case-study-L3hrIp {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 1.84px;
+  line-height         : 28.0px;
+  min-height          : 25px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 187px;
+}
+.portfolio .voluntopia-OTxKke {
+  background-color    : rgba(255,255,255,0);
+  height              : 678px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1215px;
+}
+.portfolio .case-study-3-cta-SWYDia {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 43px;
+  justify-content     : flex-start;
+  left                : 98px;
+  position            : absolute;
+  top                 : 576px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.portfolio .group-6-0WLsxH {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  border-color        : var(--auto-palette-color-1);
+  border-style        : solid;
+  border-width        : 2.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 43px;
+  justify-content     : flex-end;
+  min-width           : 223px;
+  padding             : 0 17.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+  transition: background-color 1s ease;
+}
+.portfolio .group-6-0WLsxH:hover {
+  background-color: white;
+}
+.portfolio .group-6-0WLsxH:hover p {
+  color: black;
+}
+.portfolio .view-case-study-Dwitxu {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 1.84px;
+  line-height         : 28.0px;
+  min-height          : 25px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 187px;
+}
+.portfolio .group-SHpdVl {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 32px;
+  justify-content     : flex-start;
+  margin-bottom       : 33.0px;
+  margin-left         : 549px;
+  min-width           : 535px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.portfolio .portfolio-v2dQM8 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(229,226,226,1.0);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  margin-left         : -1px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 121px;
+}
+.portfolio .about-zYScWx {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(229,226,226,1.0);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  margin-left         : 28px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 83px;
+}
+.portfolio .github-xhlEoi {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 1.0px;
+  margin-left         : 29px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.portfolio .linkedin-zx1SOY {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-end;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  min-width           : 19px;
+  padding             : 3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.portfolio .shape-xHpimc {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.portfolio .shape-4Z2x9U {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-left         : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 8px;
+}
+.portfolio .shape-tHxo0L {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 3px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.portfolio .behance-network-vDjrFK {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-start;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  padding             : 0 3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.portfolio .shape-I38MzY {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-bottom       : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.portfolio .shape-dPF7Sy {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 6px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.portfolio .path-rS5sGK {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.portfolio .basketball-S3umP6 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.portfolio .rectangle-copy-ZnL7mM {
+  background-color    : rgba(68,73,77,1.0);
+  height              : 564px;
+  left                : 10px;
+  opacity             : 0.75;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1196px;
+}
+.portfolio .winkel-WpH2ej {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(226,226,226,1.0);
+  font-family         : Just Me Again Down Here, Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 1px;
+  letter-spacing      : -1.16px;
+  line-height         : 72.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 101px;
+  transform           : rotate(0deg);
+  width               : 245px;
+}
+.portfolio .group-60-iv5Suw {
+  background-color    : rgba(255,255,255,0);
+  height              : 76px;
+  left                : 94px;
+  position            : absolute;
+  top                 : 28px;
+  transform           : rotate(0deg);
+  width               : 83px;
+}
+.portfolio .group-3-jUsNUQ {
+  background-color    : rgba(255,255,255,0);
+  height              : 18px;
+  left                : 41px;
+  position            : absolute;
+  top                 : 5px;
+  transform           : rotate(0deg);
+  width               : 40px;
+}
+.portfolio .stroke-4-biPKUU {
+  background-color    : rgba(255,255,255,0);
+  height              : 20px;
+  left                : 40px;
+  position            : absolute;
+  top                 : 4px;
+  transform           : rotate(0deg);
+  width               : 43px;
+}
+.portfolio .group-8-9DYWYF {
+  background-color    : rgba(255,255,255,0);
+  height              : 26px;
+  left                : 40px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 33px;
+}
+.portfolio .stroke-9-0072HY {
+  background-color    : rgba(255,255,255,0);
+  height              : 28px;
+  left                : 39px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 36px;
+}
+.portfolio .group-13-GGqdKN {
+  background-color    : rgba(255,255,255,0);
+  height              : 55px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 22px;
+  transform           : rotate(0deg);
+  width               : 48px;
+}
+.portfolio .group-16-ptGuLi {
+  background-color    : rgba(255,255,255,0);
+  height              : 14px;
+  left                : 7px;
+  position            : absolute;
+  top                 : 63px;
+  transform           : rotate(0deg);
+  width               : 10px;
+}
+.portfolio .group-19-583W8c {
+  background-color    : rgba(255,255,255,0);
+  height              : 3px;
+  left                : 28px;
+  position            : absolute;
+  top                 : 42px;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.portfolio .stroke-20-oQaGZD {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 28px;
+  position            : absolute;
+  top                 : 41px;
+  transform           : rotate(0deg);
+  width               : 13px;
+}
+.portfolio .group-24-iBNgK6 {
+  background-color    : rgba(255,255,255,0);
+  height              : 12px;
+  left                : 14px;
+  position            : absolute;
+  top                 : 30px;
+  transform           : rotate(0deg);
+  width               : 8px;
+}
+.portfolio .stroke-25-K2k3cY {
+  background-color    : rgba(255,255,255,0);
+  height              : 14px;
+  left                : 13px;
+  position            : absolute;
+  top                 : 29px;
+  transform           : rotate(0deg);
+  width               : 10px;
+}
+.portfolio .group-29-x4cfnh {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 15px;
+  position            : absolute;
+  top                 : 34px;
+  transform           : rotate(0deg);
+  width               : 5px;
+}
+.portfolio .stroke-30-1CLmFd {
+  background-color    : rgba(255,255,255,0);
+  height              : 7px;
+  left                : 14px;
+  position            : absolute;
+  top                 : 33px;
+  transform           : rotate(0deg);
+  width               : 7px;
+}
+.portfolio .group-34-lJsSn7 {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 16px;
+  position            : absolute;
+  top                 : 34px;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.portfolio .group-37-iQCv1c {
+  background-color    : rgba(255,255,255,0);
+  height              : 14px;
+  left                : 31px;
+  position            : absolute;
+  top                 : 21px;
+  transform           : rotate(0deg);
+  width               : 10px;
+}
+.portfolio .group-40-t6otND {
+  background-color    : rgba(255,255,255,0);
+  height              : 20px;
+  left                : 31px;
+  position            : absolute;
+  top                 : 50px;
+  transform           : rotate(0deg);
+  width               : 14px;
+}
+.portfolio .group-43-x6a69x {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 44px;
+  position            : absolute;
+  top                 : 46px;
+  transform           : rotate(0deg);
+  width               : 2px;
+}
+.portfolio .group-46-i46elf {
+  background-color    : rgba(255,255,255,0);
+  height              : 7px;
+  left                : 16px;
+  position            : absolute;
+  top                 : 24px;
+  transform           : rotate(0deg);
+  width               : 10px;
+}
+.portfolio {
+  align-items         : center;
+  background-color    : rgba(70,69,69,1.0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 2810px;
+  overflow            : hidden;
+  padding             : 0 33.0px;
+  position            : relative;
+  width               : 1440.0px;
+}
+.floracracy .your-bag-copy-LQlwVh {
+  background-color    : rgba(255,255,255,0);
+  height              : 491px;
+  left                : 1135px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : -98px;
+  transform           : rotate(91deg);
+  width               : 227px;
+}
+.floracracy .visualizer-SUvkNA {
+  background-color    : rgba(255,255,255,0);
+  height              : 395px;
+  left                : 432px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 490px;
+  transform           : rotate(1deg);
+  width               : 555px;
+}
+.portfolio .rectangle-Y28vXk {
+  background-color    : var(--auto-palette-color-1);
+  height              : 137px;
+  left                : 19px;
+  position            : absolute;
+  top                 : 65px;
+  transform           : rotate(0deg);
+  width               : 173px;
+}
+.floracracy .message-page-fill-copy-c4qxWH {
+  background-color    : rgba(255,255,255,0);
+  height              : 427px;
+  left                : 1002px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 277px;
+  transform           : rotate(1deg);
+  width               : 491px;
+}
+.floracracy .full-view-page-copy-xqJgXo {
+  background-color    : rgba(255,255,255,0);
+  height              : 441px;
+  left                : 432px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 5px;
+  transform           : rotate(1deg);
+  width               : 555px;
+}
+.floracracy .rectangle-copy-X9qtzg {
+  background-color    : rgba(40,38,38,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 0.75;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.floracracy .fill-1-xEYkJV {
+  background-color    : rgba(255,255,255,0);
+  height              : 35.28%;
+  left                : 1.34%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 24.33%;
+}
+.floracracy .fill-2-xm2Tx3 {
+  background-color    : rgba(255,255,255,0);
+  height              : 3.01%;
+  left                : 5.18%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 21.10%;
+  transform           : rotate(0deg);
+  width               : 1.00%;
+}
+.floracracy .full-view-page-KHFRDg {
+  background-color    : rgba(255,255,255,0);
+  height              : 441px;
+  left                : 432px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 34px;
+  transform           : rotate(1deg);
+  width               : 555px;
+}
+.floracracy .your-bag-WzvxvU {
+  background-color    : rgba(255,255,255,0);
+  height              : 397px;
+  left                : 1002px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 719px;
+  transform           : rotate(1deg);
+  width               : 473px;
+}
+.floracracy .message-page-aQKuNr {
+  background-color    : rgba(255,255,255,0);
+  height              : 413px;
+  left                : -26px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 328px;
+  transform           : rotate(271deg);
+  width               : 473px;
+}
+.floracracy .style-tile-2-zhonjj {
+  background-color    : rgba(255,255,255,0);
+  height              : 350px;
+  left                : 432px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 899px;
+  transform           : rotate(1deg);
+  width               : 555px;
+}
+.floracracy .group-SJD3Me {
+  background-color    : rgba(255,255,255,0);
+  bottom              : -69.33%;
+  height              : 222.52%;
+  left                : -28.51%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(27deg);
+  width               : 125.25%;
+}
+.floracracy .mask-8BWoND {
+  background-color    : rgba(215,215,215,1.0);
+  height              : 99.82%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 99.92%;
+}
+.floracracy .group-A5NxNM {
+  background-color    : rgba(215,215,215,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.floracracy .fill-3-VYuodv {
+  background-color    : rgba(255,255,255,0);
+  height              : 3.01%;
+  left                : 6.77%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 21.10%;
+  transform           : rotate(0deg);
+  width               : 0.92%;
+}
+.group-56 {
+  background-color    : rgba(255,255,255,0);
+  height              : 15.60%;
+  left                : 8.11%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 8.69%;
+  transform           : rotate(0deg);
+  width               : 13.63%;
+}
+.group-56 .fill-4-YxY0tg {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 11.04%;
+}
+.group-56 .fill-12-0ZW0nH {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  left                : 39.26%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.portfolio .winkel-BDdpax {
+  background-color    : rgba(255,255,255,0);
+  height              : 564px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1206px;
+}
+.portfolio .group-jf2WvM {
+  background-color    : rgba(255,255,255,0);
+  height              : 564px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1206px;
+}
+.portfolio .winkel-tRIh9i {
+  background-color    : rgba(255,255,255,0);
+  height              : 564px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1206px;
+}
+.group-56 .fill-6-KBT3ES {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  left                : 15.34%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 7.98%;
+}
+.group-56 .fill-8-C1gW3E {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  left                : 26.38%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 10.43%;
+}
+.group-56 .fill-10-tLFody {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 25.15%;
+  transform           : rotate(0deg);
+  width               : 10.43%;
+}
+.portfolio .sh-uvWKHH {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(70,69,69,1.0);
+  font-family         : Fjalla One, Helvetica, Arial, serif;
+  font-size           : 208.1px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 0px;
+  letter-spacing      : 0.00px;
+  line-height         : 262.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.floracracy-cta .cta-end-JCni8v {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 0.0;
+  pointer-events      : auto;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  width               : 100%;
+}
+.floracracy-cta .cta-end-JCni8v:hover {
+  transform           : translate(5px, 0);
+}
+.floracracy {
+  background-color    : rgba(255,255,255,0);
+  height              : 564px;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1196px;
+}
+.portfolio .logo-REdnhY {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 263px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.group-56 .fill-14-jiv42Y {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 38.65%;
+  transform           : rotate(0deg);
+  width               : 7.98%;
+}
+.floracracy .visualizer-copy-tbPlZl {
+  background-color    : rgba(255,255,255,0);
+  height              : 277px;
+  left                : 289px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 9px;
+  transform           : rotate(1deg);
+  width               : 128px;
+}
+.group-56 .fill-20-eCCQye {
+  background-color    : rgba(255,255,255,0);
+  height              : 70.45%;
+  left                : 25.15%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 28.83%;
+}
+.group-56 .fill-18-ow5Oo3 {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 0.61%;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.group-56 .fill-16-UCyiww {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 12.88%;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.group-56 .fill-24-U5Dgqx {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 45.40%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-22-Ix5SoG {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.01%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-28-VmGELF {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 22.73%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-26-Srwujt {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.63%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-32-n8rW1n {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-30-Ot4S2U {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 47.85%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 22.73%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-38-vK9VSk {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.69%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-36-pE2W7x {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 47.24%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-34-5eDVZf {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-42-z2zEel {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.69%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-40-hScbar {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.08%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 25.00%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-44-tkZhit {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.39%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 1.23%;
+}
+.group-56 .fill-52-nSG1LJ {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 30.68%;
+  height              : 0px;
+  left                : 31.90%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-50-e0Mt0i {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.01%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 1.23%;
+}
+.floracracy .re-imagining-the-cus-PsSBV1 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(255,255,255,1.0);
+  font-family         : "Biryani-Black", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  height              : 64px;
+  left                : 4.85%;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 30.14%;
+  transform           : rotate(0deg);
+  width               : 28.34%;
+}
+.group-56 .fill-46-gTtuxL {
+  background-color    : rgba(255,255,255,0);
+  height              : 2.27%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.floracracy-cta {
+  background-color    : rgba(255,255,255,0);
+  height              : 43px;
+  left                : 91px;
+  opacity             : 1.0;
+  pointer-events      : auto;
+  position            : absolute;
+  top                 : 392px;
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  width               : 223px;
+}
+.floracracy-cta:hover {
+  opacity             : 1;
+}
+.group-56 .fill-48-AHteIz {
+  background-color    : rgba(255,255,255,0);
+  height              : 2.27%;
+  left                : 46.63%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.floracracy-cta .cta-beginning-ikRetx {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  pointer-events      : auto;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  width               : 100%;
+}
+.floracracy-cta .cta-beginning-ikRetx:hover {
+  transform           : translate(5px, 0);
+}
+.group-56 .fill-54-csOox8 {
+  background-color    : rgba(255,255,255,0);
+  height              : 0px;
+  left                : 25.15%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 6.82%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+/* ANIMA component - floracracy */
+.floracracy .your-bag-copy-LQlwVh {
+  background-color    : rgba(255,255,255,0);
+  height              : 491px;
+  left                : 1135px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : -98px;
+  transform           : rotate(91deg);
+  width               : 227px;
+}
+.floracracy .visualizer-SUvkNA {
+  background-color    : rgba(255,255,255,0);
+  height              : 395px;
+  left                : 432px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 490px;
+  transform           : rotate(1deg);
+  width               : 555px;
+}
+.floracracy .message-page-fill-copy-c4qxWH {
+  background-color    : rgba(255,255,255,0);
+  height              : 427px;
+  left                : 1002px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 277px;
+  transform           : rotate(1deg);
+  width               : 491px;
+}
+.floracracy .full-view-page-copy-xqJgXo {
+  background-color    : rgba(255,255,255,0);
+  height              : 441px;
+  left                : 432px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 5px;
+  transform           : rotate(1deg);
+  width               : 555px;
+}
+.floracracy .rectangle-copy-X9qtzg {
+  background-color    : rgba(40,38,38,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 0.75;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.floracracy .fill-1-xEYkJV {
+  background-color    : rgba(255,255,255,0);
+  height              : 35.28%;
+  left                : 1.34%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 24.33%;
+}
+.floracracy .fill-2-xm2Tx3 {
+  background-color    : rgba(255,255,255,0);
+  height              : 3.01%;
+  left                : 5.18%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 21.10%;
+  transform           : rotate(0deg);
+  width               : 1.00%;
+}
+.floracracy .full-view-page-KHFRDg {
+  background-color    : rgba(255,255,255,0);
+  height              : 441px;
+  left                : 432px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 34px;
+  transform           : rotate(1deg);
+  width               : 555px;
+}
+.floracracy .your-bag-WzvxvU {
+  background-color    : rgba(255,255,255,0);
+  height              : 397px;
+  left                : 1002px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 719px;
+  transform           : rotate(1deg);
+  width               : 473px;
+}
+.floracracy .message-page-aQKuNr {
+  background-color    : rgba(255,255,255,0);
+  height              : 413px;
+  left                : -26px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 328px;
+  transform           : rotate(271deg);
+  width               : 473px;
+}
+.floracracy .style-tile-2-zhonjj {
+  background-color    : rgba(255,255,255,0);
+  height              : 350px;
+  left                : 432px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 899px;
+  transform           : rotate(1deg);
+  width               : 555px;
+}
+.floracracy .group-SJD3Me {
+  background-color    : rgba(255,255,255,0);
+  bottom              : -69.33%;
+  height              : 222.52%;
+  left                : -28.51%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(27deg);
+  width               : 125.25%;
+}
+.floracracy .mask-8BWoND {
+  background-color    : rgba(215,215,215,1.0);
+  height              : 99.82%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 99.92%;
+}
+.floracracy .group-A5NxNM {
+  background-color    : rgba(215,215,215,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.floracracy .fill-3-VYuodv {
+  background-color    : rgba(255,255,255,0);
+  height              : 3.01%;
+  left                : 6.77%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 21.10%;
+  transform           : rotate(0deg);
+  width               : 0.92%;
+}
+.group-56 {
+  background-color    : rgba(255,255,255,0);
+  height              : 15.60%;
+  left                : 8.11%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 8.69%;
+  transform           : rotate(0deg);
+  width               : 13.63%;
+}
+.group-56 .fill-4-YxY0tg {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 11.04%;
+}
+.group-56 .fill-12-0ZW0nH {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  left                : 39.26%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.group-56 .fill-6-KBT3ES {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  left                : 15.34%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 7.98%;
+}
+.group-56 .fill-8-C1gW3E {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  left                : 26.38%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 10.43%;
+}
+.group-56 .fill-10-tLFody {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 25.15%;
+  transform           : rotate(0deg);
+  width               : 10.43%;
+}
+.group-56 .fill-14-jiv42Y {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 38.65%;
+  transform           : rotate(0deg);
+  width               : 7.98%;
+}
+.floracracy .visualizer-copy-tbPlZl {
+  background-color    : rgba(255,255,255,0);
+  height              : 277px;
+  left                : 289px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 9px;
+  transform           : rotate(1deg);
+  width               : 128px;
+}
+.group-56 .fill-20-eCCQye {
+  background-color    : rgba(255,255,255,0);
+  height              : 70.45%;
+  left                : 25.15%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 28.83%;
+}
+.group-56 .fill-18-ow5Oo3 {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 0.61%;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.group-56 .fill-16-UCyiww {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 12.88%;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.group-56 .fill-24-U5Dgqx {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 45.40%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-22-Ix5SoG {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.01%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-28-VmGELF {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 22.73%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-26-Srwujt {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.63%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-32-n8rW1n {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-30-Ot4S2U {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 47.85%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 22.73%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-38-vK9VSk {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.69%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-36-pE2W7x {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 47.24%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-34-5eDVZf {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-42-z2zEel {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.69%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-40-hScbar {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.08%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 25.00%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-44-tkZhit {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.39%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 1.23%;
+}
+.group-56 .fill-52-nSG1LJ {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 30.68%;
+  height              : 0px;
+  left                : 31.90%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-50-e0Mt0i {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.01%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 1.23%;
+}
+.floracracy .re-imagining-the-cus-PsSBV1 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(255,255,255,1.0);
+  font-family         : "Biryani-Black", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  height              : 64px;
+  left                : 4.85%;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 30.14%;
+  transform           : rotate(0deg);
+  width               : 28.34%;
+}
+.group-56 .fill-46-gTtuxL {
+  background-color    : rgba(255,255,255,0);
+  height              : 2.27%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-48-AHteIz {
+  background-color    : rgba(255,255,255,0);
+  height              : 2.27%;
+  left                : 46.63%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-54-csOox8 {
+  background-color    : rgba(255,255,255,0);
+  height              : 0px;
+  left                : 25.15%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 6.82%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+/* ANIMA component - group-56 */
+.group-56 .fill-4-YxY0tg {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 11.04%;
+}
+.group-56 .fill-12-0ZW0nH {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  left                : 39.26%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.group-56 .fill-6-KBT3ES {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  left                : 15.34%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 7.98%;
+}
+.group-56 .fill-8-C1gW3E {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  left                : 26.38%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 10.43%;
+}
+.group-56 .fill-10-tLFody {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 25.15%;
+  transform           : rotate(0deg);
+  width               : 10.43%;
+}
+.group-56 .fill-14-jiv42Y {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 38.65%;
+  transform           : rotate(0deg);
+  width               : 7.98%;
+}
+.group-56 .fill-20-eCCQye {
+  background-color    : rgba(255,255,255,0);
+  height              : 70.45%;
+  left                : 25.15%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 28.83%;
+}
+.group-56 .fill-18-ow5Oo3 {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 1.14%;
+  height              : 19.32%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 0.61%;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.group-56 .fill-16-UCyiww {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 0px;
+  height              : 20.45%;
+  opacity             : 1.0;
+  position            : absolute;
+  right               : 12.88%;
+  transform           : rotate(0deg);
+  width               : 9.82%;
+}
+.group-56 .fill-24-U5Dgqx {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 45.40%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-22-Ix5SoG {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.01%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-28-VmGELF {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 22.73%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-26-Srwujt {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.63%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-32-n8rW1n {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-30-Ot4S2U {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 47.85%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 22.73%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-38-vK9VSk {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.69%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-36-pE2W7x {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 47.24%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-34-5eDVZf {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 23.86%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-42-z2zEel {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.69%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-40-hScbar {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.08%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 25.00%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-44-tkZhit {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 49.39%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 1.23%;
+}
+.group-56 .fill-52-nSG1LJ {
+  background-color    : rgba(255,255,255,0);
+  bottom              : 30.68%;
+  height              : 0px;
+  left                : 31.90%;
+  opacity             : 1.0;
+  position            : absolute;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-50-e0Mt0i {
+  background-color    : rgba(255,255,255,0);
+  height              : 1.14%;
+  left                : 46.01%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 27.27%;
+  transform           : rotate(0deg);
+  width               : 1.23%;
+}
+.group-56 .fill-46-gTtuxL {
+  background-color    : rgba(255,255,255,0);
+  height              : 2.27%;
+  left                : 48.47%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-48-AHteIz {
+  background-color    : rgba(255,255,255,0);
+  height              : 2.27%;
+  left                : 46.63%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 26.14%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+.group-56 .fill-54-csOox8 {
+  background-color    : rgba(255,255,255,0);
+  height              : 0px;
+  left                : 25.15%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 6.82%;
+  transform           : rotate(0deg);
+  width               : 0.61%;
+}
+/* ANIMA component - floracracy-cta */
+.floracracy-cta .cta-end-JCni8v {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 0.0;
+  pointer-events      : auto;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  width               : 100%;
+}
+.floracracy-cta .cta-end-JCni8v:hover {
+  transform           : translate(5px, 0);
+}
+.floracracy-cta .cta-beginning-ikRetx {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  pointer-events      : auto;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  width               : 100%;
+}
+.floracracy-cta .cta-beginning-ikRetx:hover {
+  transform           : translate(5px, 0);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+* {
+  box-sizing          : border-box;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

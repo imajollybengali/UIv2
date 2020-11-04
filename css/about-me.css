@@ -1,0 +1,490 @@
+@import url('https://fonts.googleapis.com/css?family=Biryani:400,700|Fjalla+One:400');
+
+@font-face {
+                          font-family: "Biryani-SemiBold";
+                          src: url('../fonts/Biryani-SemiBold.ttf') format("truetype");
+                        }
+
+/* ANIMA screen - aboutme */
+:root {
+  --auto-palette-color-1: rgba(255,255,255,1.0);
+}
+a {
+  text-decoration     : none;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:hover
+{
+     color:inherit;
+     text-decoration:none;
+     cursor:pointer;
+}
+.aboutme .communications-HHJ3Ev {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 17px;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 23px;
+}
+.aboutme .logo-as0iN1 {
+  background-color    : rgba(255,255,255,0);
+  height              : 263px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.aboutme .rectangle-Y28vXk {
+  background-color    : var(--auto-palette-color-1);
+  height              : 137px;
+  left                : 19px;
+  position            : absolute;
+  top                 : 65px;
+  transform           : rotate(0deg);
+  width               : 173px;
+}
+.aboutme .sh-uvWKHH {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(70,69,69,1.0);
+  font-family         : Fjalla One, Helvetica, Arial, serif;
+  font-size           : 208.1px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 0px;
+  letter-spacing      : 0.00px;
+  line-height         : 262.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.aboutme .image-1-khkTzb {
+  background-color    : rgba(255,255,255,0);
+  height              : 522px;
+  left                : 711px;
+  position            : absolute;
+  top                 : 166px;
+  transform           : rotate(0deg);
+  width               : 664px;
+}
+.aboutme .copyright-251-2020-shi-Xm8UXQ {
+  align-self          : center;
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(97,97,97,1.0);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  font-style          : normal;
+  font-weight         : 700;
+  height              : auto;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+  margin-left         : 7.14px;
+  margin-top          : 9551px;
+  min-height          : 64px;
+  min-width           : 699px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.aboutme .shikder-is-a-front-e-a0ykLx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-family         : "Biryani-SemiBold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  height              : auto;
+  left                : 24px;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 330px;
+  transform           : rotate(0deg);
+  width               : 963px;
+}
+.aboutme .auto-flex1-4xTeda {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 1px;
+  margin-top          : 1.0px;
+  position            : relative;
+  width               : 6px;
+}
+.aboutme {
+  align-items         : flex-end;
+  background-color    : rgba(70,69,69,1.0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 751px;
+  overflow            : hidden;
+  padding             : 0 32.0px;
+  position            : relative;
+  width               : 1440.0px;
+}
+.aboutme .span1-LE4lKR {
+  letter-spacing      : 0.00px;
+}
+.aboutme .span2-LE4lKR {
+  color               : rgba(28,28,28,1.0);
+  letter-spacing      : 0.00px;
+}
+.aboutme .i-transform-problems-RaftRN {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(116,113,113,1.0);
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 59px;
+  letter-spacing      : 2.76px;
+  line-height         : 43.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 511px;
+  transform           : rotate(0deg);
+  width               : 644px;
+}
+.aboutme .span3-LE4lKR {
+  letter-spacing      : 0.00px;
+}
+.aboutme .group-Pxw8YE {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 32px;
+  justify-content     : flex-start;
+  left                : 760px;
+  min-width           : 535px;
+  position            : absolute;
+  top                 : 99px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.aboutme .portfolio-v2dQM8 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(229,226,226,1.0);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  margin-left         : -1px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 121px;
+}
+.aboutme .about-zYScWx {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(229,226,226,1.0);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  margin-left         : 28px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 83px;
+}
+.aboutme .github-xhlEoi {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 1.0px;
+  margin-left         : 29px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.aboutme .linkedin-zx1SOY {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-end;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  min-width           : 19px;
+  padding             : 3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.aboutme .shape-wcyVwE {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.aboutme .shape-4Z2x9U {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-left         : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 8px;
+}
+.aboutme .shape-xaVSfB {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 3px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.aboutme .behance-network-vDjrFK {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-start;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  padding             : 0 3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.aboutme .shape-I38MzY {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-bottom       : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.aboutme .shape-BTvbOj {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 6px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.aboutme .path-xZuY2c {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.aboutme .basketball-S3umP6 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.aboutme .facebook-fJ50oW {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 1.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.aboutme .check-out-my-work-LkLBFU {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(29,28,28,1.0);
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  font-style          : normal;
+  font-weight         : 700;
+  height              : auto;
+  left                : 49px;
+  letter-spacing      : 2.41px;
+  line-height         : 37.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 666px;
+  transform           : rotate(0deg);
+  width               : 249px;
+}
+
+.aboutme .auto-flex-ejYrJd {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 3px;
+}
+.aboutme .overlap-group-jSOr7s {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 751px;
+  margin-top          : -26px;
+  position            : relative;
+  width               : 1375px;
+}
+ .aboutme .rectangle-copy-VTzHzQ {
+  background-color    : rgba(255,255,255,0);
+  height              : 3px;
+  left                : 49px;
+  position            : absolute;
+  top                 : 711px;
+  transform           : rotate(0deg);
+  width               : 240px;
+  transition: height .25s;
+}
+.aboutme .rectangle-copy-VTzHzQ:hover {
+  height: 8px;
+  cursor: pointer;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

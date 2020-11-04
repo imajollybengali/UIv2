@@ -1,0 +1,1232 @@
+@import url('https://fonts.googleapis.com/css?family=Biryani:400,700|Fjalla+One:400');
+
+
+/* ANIMA screen - floracracycasestudy */
+.font-class-1 {
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.font-class-2 {
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  font-style          : normal;
+  font-weight         : 700;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.font-class-3 {
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 96.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  letter-spacing      : 11.03px;
+  line-height         : 169.0px;
+}
+:root {
+  --auto-palette-color-1: rgba(255,255,255,1.0);
+  --auto-palette-color-2: rgba(97,95,95,1.0);
+  --auto-palette-color-3: rgba(97,94,94,1.0);
+  --auto-palette-color-4: rgba(192,192,192,1.0);
+  --auto-palette-color-5: rgba(0,0,0,1.0);
+}
+.floracracycasestudy .overlap-group3-rLx3Qh {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 248px;
+  margin-right        : 137.0px;
+  position            : relative;
+  width               : 188px;
+}
+.floracracycasestudy .overlap-group1-u4BaOU {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 895px;
+  margin-top          : 260px;
+  position            : relative;
+  width               : 1440px;
+}
+.floracracycasestudy .overlap-group2-fLzkbh {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1671px;
+  margin-top          : 150px;
+  position            : relative;
+  width               : 1716px;
+}
+.floracracycasestudy .auto-flex-f2B8u6 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 518px;
+  justify-content     : flex-start;
+  margin-right        : 118.0px;
+  margin-top          : 65px;
+  position            : relative;
+  width               : auto;
+}
+.floracracycasestudy .auto-flex2-6NTaBf {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 587px;
+  justify-content     : flex-start;
+  margin-right        : 15.0px;
+  margin-top          : 70px;
+  position            : relative;
+  width               : auto;
+}
+.floracracycasestudy .auto-flex1-A9yKZG {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 518px;
+  justify-content     : flex-start;
+  margin-right        : 15.0px;
+  margin-top          : 70px;
+  position            : relative;
+  width               : auto;
+}
+.floracracycasestudy .auto-flex6-hlyYOx {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 1px;
+  margin-top          : 1.0px;
+  position            : relative;
+  width               : 6px;
+}
+.floracracycasestudy .auto-flex3-pvPqPx {
+  align-items         : flex-start;
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 169px;
+  justify-content     : flex-start;
+  margin-left         : 80.0px;
+  margin-top          : 87px;
+  position            : relative;
+  width               : auto;
+}
+.floracracycasestudy .oval-copy-2-W7kDgE {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 812px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.floracracycasestudy .oval-copy-3-AHHv2H {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 830px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.floracracycasestudy .oval-copy-4-x78xiI {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 847px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 13px;
+}
+.floracracycasestudy .oval-copy-5-sZ3OJR {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 865px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.floracracycasestudy .oval-copy-6-yghbXF {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 882px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 13px;
+}
+.floracracycasestudy .oval-copy-7-ZLTdgw {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 900px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 13px;
+}
+.floracracycasestudy .oval-copy-8-9ItPXW {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 918px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.floracracycasestudy .oval-copy-9-SxyTZQ {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 936px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.floracracycasestudy .portfolio-e2v6Cf {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 956px;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 99px;
+  transform           : rotate(0deg);
+  width               : 121px;
+}
+.floracracycasestudy .about-PxNCXR {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 1106px;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 99px;
+  transform           : rotate(0deg);
+  width               : 83px;
+}
+.floracracycasestudy .github-uU0a0n {
+  background-color    : rgba(255,255,255,0);
+  height              : 19px;
+  left                : 1219px;
+  position            : absolute;
+  top                 : 105px;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.floracracycasestudy .linkedin-n9Csog {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 19px;
+  justify-content     : flex-end;
+  left                : 1269px;
+  min-width           : 19px;
+  padding             : 3.0px;
+  position            : absolute;
+  top                 : 105px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .shape-u5vBsK {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.floracracycasestudy .shape-j1ABPL {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-left         : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 8px;
+}
+.floracracycasestudy .shape-aA8jAv {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 3px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.floracracycasestudy .behance-network-80xFIX {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 19px;
+  justify-content     : flex-start;
+  left                : 1319px;
+  padding             : 0 3.0px;
+  position            : absolute;
+  top                 : 105px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .shape-mAcloa {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-bottom       : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.floracracycasestudy .shape-hMTx8Z {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 6px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.floracracycasestudy .path-tZC3kL {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.floracracycasestudy .basketball-VzipHA {
+  background-color    : rgba(255,255,255,0);
+  height              : 19px;
+  left                : 1369px;
+  position            : absolute;
+  top                 : 105px;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.floracracycasestudy .facebook-VlsNLu {
+  background-color    : rgba(255,255,255,0);
+  height              : 19px;
+  left                : 1419px;
+  position            : absolute;
+  top                 : 105px;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.floracracycasestudy .communications-muohZ7 {
+  background-color    : rgba(255,255,255,0);
+  height              : 17px;
+  left                : 1469px;
+  position            : absolute;
+  top                 : 106px;
+  transform           : rotate(0deg);
+  width               : 23px;
+}
+.floracracycasestudy .auto-flex5-8zx0fE {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 3px;
+}
+.floracracycasestudy .overlap-group-jSOr7s {
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1916px;
+  margin-left         : -164.0px;
+  margin-top          : -26px;
+  position            : relative;
+  width               : 1676px;
+}
+.floracracycasestudy .auto-flex4-gaPYyE {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 71px;
+  justify-content     : flex-start;
+  margin-top          : 30px;
+  position            : relative;
+  width               : auto;
+}
+.floracracycasestudy .a01-D9yF9P {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 100px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 557px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .a01-JLFFuk {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  min-height          : 169px;
+  min-width           : 151px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .a02-YFGHhM {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 698px;
+  min-height          : 169px;
+  min-width           : 151px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .made-to-be-beautiful-U7g9Gp {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  font-style          : normal;
+  font-weight         : 700;
+  height              : auto;
+  left                : 655px;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 652px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .logo-as0iN1 {
+  background-color    : rgba(255,255,255,0);
+  height              : 263px;
+  left                : 197px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.floracracycasestudy .rectangle-Y28vXk {
+  background-color    : var(--auto-palette-color-5);
+  height              : 137px;
+  left                : 19px;
+  position            : absolute;
+  top                 : 65px;
+  transform           : rotate(0deg);
+  width               : 173px;
+}
+.floracracycasestudy .sh-uvWKHH {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  font-family         : Fjalla One, Helvetica, Arial, serif;
+  font-size           : 208.1px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 0px;
+  letter-spacing      : 0.00px;
+  line-height         : 262.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.floracracycasestudy .copyright-251-2020-shi-Xm8UXQ {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(97,97,97,1.0);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  font-style          : normal;
+  font-weight         : 700;
+  height              : auto;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+  margin-left         : 7.14px;
+  margin-top          : 1618px;
+  min-height          : 64px;
+  min-width           : 699px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .group-57-9NUWoO {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 349px;
+  justify-content     : flex-start;
+  left                : 492px;
+  position            : absolute;
+  top                 : 265px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .fill-1-YifWyW {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 69px;
+  margin-bottom       : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 47px;
+}
+.floracracycasestudy .group-19-C7oc7y {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 69px;
+  margin-left         : 16px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 66px;
+}
+.floracracycasestudy .fill-46-2kBUf3 {
+  background-color    : rgba(255,255,255,0);
+  height              : 6px;
+  left                : 153px;
+  position            : absolute;
+  top                 : 91px;
+  transform           : rotate(0deg);
+  width               : 5px;
+}
+.floracracycasestudy .fill-48-fH1dVb {
+  background-color    : rgba(255,255,255,0);
+  height              : 6px;
+  left                : 141px;
+  position            : absolute;
+  top                 : 92px;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.floracracycasestudy .moodboard-2-jkWxrx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 587px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 534px;
+}
+.floracracycasestudy .arrows-B4YRBL {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 106px;
+  justify-content     : flex-end;
+  left                : 1391px;
+  min-width           : 106px;
+  opacity             : 0.5;
+  padding             : 0 33.0px;
+  position            : absolute;
+  top                 : 936px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .path-lJTMCU {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 66px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 33px;
+}
+.floracracycasestudy .arrows-copy-omWHXl {
+  background-color    : rgba(255,255,255,0);
+  height              : 106px;
+  left                : 218px;
+  opacity             : 0.5;
+  position            : absolute;
+  top                 : 936px;
+  transform           : rotate(0deg);
+  width               : 106px;
+}
+.floracracycasestudy .oval-A7nVzS {
+  background-color    : rgba(255,255,255,0);
+  height              : 21px;
+  left                : 768px;
+  position            : absolute;
+  top                 : 1337px;
+  transform           : rotate(0deg);
+  width               : 21px;
+}
+.floracracycasestudy .oval-copy-YxurP2 {
+  background-color    : rgba(255,255,255,0);
+  height              : 13px;
+  left                : 794px;
+  position            : absolute;
+  top                 : 1341px;
+  transform           : rotate(0deg);
+  width               : 13px;
+}
+.floracracycasestudy .rectangle-XQxpR0 {
+  background-color    : var(--auto-palette-color-4);
+  height              : 1916px;
+  left                : 164px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.floracracycasestudy .rectangle-copy-47Mj0P {
+  background-color    : var(--auto-palette-color-4);
+  height              : 895px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.floracracycasestudy .visualizer-FmbULZ {
+  background-color    : rgba(255,255,255,0);
+  height              : 965px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 506px;
+  transform           : rotate(0deg);
+  width               : 1716px;
+}
+.floracracycasestudy {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-1);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 10386px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.floracracycasestudy .a02-8RUGKp {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 817px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 557px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .rectangle-copy-2-mWU6DE {
+  background-color    : var(--auto-palette-color-4);
+  height              : 1671px;
+  left                : 138px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.floracracycasestudy .group-56-u3nF7Y {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 19px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 649px;
+}
+.floracracycasestudy .fill-13-39eJv1 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 69px;
+  margin-left         : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 53px;
+}
+.floracracycasestudy .fill-11-0kd01r {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 71px;
+  margin-left         : 16px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 64px;
+}
+.floracracycasestudy .fill-9-EdHfw0 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 69px;
+  margin-left         : 20px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 69px;
+}
+.floracracycasestudy .fill-28-6ui1G4 {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 151px;
+  position            : absolute;
+  top                 : 80px;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.floracracycasestudy .fill-30-CEaxZd {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 148px;
+  position            : absolute;
+  top                 : 81px;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.floracracycasestudy .fill-32-WIayvv {
+  background-color    : rgba(255,255,255,0);
+  height              : 3px;
+  left                : 152px;
+  position            : absolute;
+  top                 : 82px;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.floracracycasestudy .fill-34-a7qnac {
+  background-color    : rgba(255,255,255,0);
+  height              : 4px;
+  left                : 152px;
+  position            : absolute;
+  top                 : 85px;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.floracracycasestudy .fill-36-x3pHpz {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 146px;
+  position            : absolute;
+  top                 : 84px;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.floracracycasestudy .fill-38-Ffe0Yy {
+  background-color    : rgba(255,255,255,0);
+  height              : 4px;
+  left                : 159px;
+  position            : absolute;
+  top                 : 90px;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.floracracycasestudy .fill-40-kTMpSv {
+  background-color    : rgba(255,255,255,0);
+  height              : 5px;
+  left                : 156px;
+  position            : absolute;
+  top                 : 90px;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.floracracycasestudy .fill-42-UipIPc {
+  background-color    : rgba(255,255,255,0);
+  height              : 3px;
+  left                : 159px;
+  position            : absolute;
+  top                 : 93px;
+  transform           : rotate(0deg);
+  width               : 5px;
+}
+.floracracycasestudy .fill-44-WItOyB {
+  background-color    : rgba(255,255,255,0);
+  height              : 4px;
+  left                : 158px;
+  position            : absolute;
+  top                 : 95px;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.floracracycasestudy .fill-5-IIr156 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 69px;
+  margin-left         : 28px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 53px;
+}
+.floracracycasestudy .fill-3-ZJojjx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 71px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.floracracycasestudy .fill-7-lszGUU {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 69px;
+  margin-left         : 20px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 69px;
+}
+.floracracycasestudy .fill-50-V4O6hM {
+  background-color    : rgba(255,255,255,0);
+  height              : 4px;
+  left                : 135px;
+  position            : absolute;
+  top                 : 96px;
+  transform           : rotate(0deg);
+  width               : 7px;
+}
+.floracracycasestudy .fill-15-YsO1HP {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 71px;
+  margin-left         : 16px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 64px;
+}
+.floracracycasestudy .fill-24-L7FgZv {
+  background-color    : rgba(255,255,255,0);
+  height              : 3px;
+  left                : 134px;
+  position            : absolute;
+  top                 : 94px;
+  transform           : rotate(0deg);
+  width               : 5px;
+}
+.floracracycasestudy .fill-26-8XfT1r {
+  background-color    : rgba(255,255,255,0);
+  height              : 6px;
+  left                : 139px;
+  position            : absolute;
+  top                 : 91px;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.floracracycasestudy .fill-20-roLVj6 {
+  background-color    : rgba(255,255,255,0);
+  height              : 248px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 188px;
+}
+.floracracycasestudy .fill-22-19zWhS {
+  background-color    : rgba(255,255,255,0);
+  height              : 4px;
+  left                : 137px;
+  position            : absolute;
+  top                 : 91px;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.floracracycasestudy .fill-52-ulMj3O {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 45px;
+  position            : absolute;
+  top                 : 242px;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.floracracycasestudy .untitled-6OyXXx {
+  background-color    : rgba(255,255,255,0);
+  height              : 438px;
+  left                : 1031px;
+  position            : absolute;
+  top                 : 716px;
+  transform           : rotate(0deg);
+  width               : 584px;
+}
+.floracracycasestudy .fill-54-A1xcid {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 22px;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.floracracycasestudy .my-bag-desktop-NOavCJ {
+  background-color    : rgba(255,255,255,0);
+  height              : 780px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 652px;
+  transform           : rotate(0deg);
+  width               : 1387px;
+}
+.floracracycasestudy .my-bag-duEXub {
+  background-color    : rgba(255,255,255,0);
+  height              : 600px;
+  left                : 876px;
+  position            : absolute;
+  top                 : 1132px;
+  transform           : rotate(0deg);
+  width               : 800px;
+}
+.floracracycasestudy .the-challenge-QBlXkT {
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 105.0px;
+  margin-top          : 130px;
+  min-height          : 106px;
+  min-width           : 625px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .floracracy-is-a-web-zbQCo0 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 305px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 1692px;
+  transform           : rotate(0deg);
+  width               : 1159px;
+}
+.floracracycasestudy .the-competition-JxfeqH {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 79px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 156px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .design-directions-BimEtG {
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 79.0px;
+  margin-top          : 150px;
+  min-height          : 106px;
+  min-width           : 778px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .closing-thoughts-xxWQKA {
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 79.0px;
+  margin-top          : 173px;
+  min-height          : 106px;
+  min-width           : 782px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .the-solution-xcTbca {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 217px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 223px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .i-came-up-with-three-XGz7Bz {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-right        : 14.0px;
+  margin-top          : 65px;
+  min-height          : 169px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 1266px;
+}
+.floracracycasestudy .our-stakeholders-sa-SZzpO5 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 38.0px;
+  margin-top          : 65px;
+  min-height          : 445px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 1266px;
+}
+.floracracycasestudy .to-put-our-explatory-YJjyx3 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 80px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 327px;
+  transform           : rotate(0deg);
+  width               : 1266px;
+}
+.floracracycasestudy .style-tile-1-7bDIkx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 518px;
+  margin-left         : 35px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 709px;
+}
+.floracracycasestudy .style-tile-3-2h3S4B {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 501px;
+  margin-left         : 2px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 775px;
+}
+.floracracycasestudy .moodboard-1-l4NULQ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 518px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 567px;
+}
+.floracracycasestudy .style-tile-2-LcbYOl {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 518px;
+  margin-left         : 13px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 774px;
+}
+.floracracycasestudy .moodboard-3-r5YdPf {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 518px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 375px;
+}
+.floracracycasestudy .natural-photos-wIFoGK {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 100px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 686px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .modern-design-7ejETc {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 817px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 686px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.floracracycasestudy .here-is-a-look-at-my-L5Lwe9 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  height              : auto;
+  left                : 218px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 394px;
+  transform           : rotate(0deg);
+  width               : 1266px;
+}
+.floracracycasestudy .at-the-end-our-our-j-QOsJOw {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-right        : 14.0px;
+  margin-top          : 65px;
+  min-height          : 128px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 1266px;
+}
+.floracracycasestudy .fill-2-uCIful {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 69px;
+  margin-bottom       : 1.0px;
+  margin-left         : 27px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 42px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

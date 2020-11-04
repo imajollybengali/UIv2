@@ -1,0 +1,954 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One:400|Biryani:700,400|Paprika:400');
+
+
+/* ANIMA screen - voluntopiacasestudyv2 */
+a {
+  text-decoration     : none;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:hover
+{
+     color:inherit;
+     text-decoration:none;
+     cursor:pointer;
+}
+.font-class-1 {
+  color               : var(--auto-palette-color-1);
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  font-style          : normal;
+  font-weight         : 700;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.font-class-2 {
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.font-class-3 {
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  font-style          : normal;
+  font-weight         : 700;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+:root {
+  --auto-palette-color-1: rgba(245,115,57,1.0);
+  --auto-palette-color-2: rgba(97,97,97,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(121,192,244,1.0);
+}
+.voluntopiacasestudyv2 .overlap-group-A5DcCC {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1061px;
+  margin-left         : 38.0px;
+  margin-top          : 50px;
+  position            : relative;
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .overlap-group1-hnVw5x {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1614px;
+  margin-left         : 38.0px;
+  margin-top          : 24px;
+  position            : relative;
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .overlap-group2-rrB6vk {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 983px;
+  margin-left         : 38.0px;
+  margin-top          : 98px;
+  position            : relative;
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .overlap-group3-rUuviv {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 505px;
+  margin-left         : 40.0px;
+  margin-top          : 144px;
+  position            : relative;
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .auto-flex3-pvPqPx {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 263px;
+  justify-content     : flex-start;
+  margin-left         : 33.0px;
+  margin-top          : -26px;
+  position            : relative;
+  width               : auto;
+}
+.voluntopiacasestudyv2 .auto-flex2-6NTaBf {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : -259.0px;
+  margin-top          : 49px;
+  position            : relative;
+  width               : 1920px;
+}
+.voluntopiacasestudyv2 .auto-flex-NEto4Q {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 382px;
+  justify-content     : flex-start;
+  margin-right        : 39.0px;
+  margin-top          : 100px;
+  position            : relative;
+  width               : auto;
+}
+.voluntopiacasestudyv2 .auto-flex1-CtU2Ta {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 314px;
+  justify-content     : flex-start;
+  margin-left         : 33.0px;
+  margin-top          : 40px;
+  position            : relative;
+  width               : auto;
+}
+.voluntopiacasestudyv2 .fill-7-Nc8886 {
+  background-color    : rgba(255,255,255,0);
+  height              : 148px;
+  left                : 68px;
+  position            : absolute;
+  top                 : 100px;
+  transform           : rotate(0deg);
+  width               : 171px;
+}
+.voluntopiacasestudyv2 .fill-9-IExXxk {
+  background-color    : rgba(255,255,255,0);
+  height              : 58px;
+  left                : 128px;
+  position            : absolute;
+  top                 : 95px;
+  transform           : rotate(0deg);
+  width               : 51px;
+}
+.voluntopiacasestudyv2 .rectangle-copy-47Mj0P {
+  background-color    : var(--auto-palette-color-4);
+  height              : 1395px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .rectangle-copy-2-Fd7xyY {
+  background-color    : var(--auto-palette-color-4);
+  height              : 1395px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .micro-volunteering-w-eGLmud {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 43.14px;
+  margin-top          : 100px;
+  min-height          : 64px;
+  min-width           : 799px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .our-competitors-3Qxk2j {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-right        : 551.11px;
+  margin-top          : 66px;
+  min-height          : 106px;
+  min-width           : 635px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .initial-style-direct-KTydRG {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 113px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 45px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .rectangle-copy-xR8OjJ {
+  background-color    : var(--auto-palette-color-4);
+  height              : 983px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .our-solution-6LLm9w {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-right        : 692.11px;
+  margin-top          : 170px;
+  min-height          : 106px;
+  min-width           : 494px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .logo-j5sg80 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 263px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.voluntopiacasestudyv2 .rectangle-Y28vXk {
+  background-color    : var(--auto-palette-color-1);
+  height              : 137px;
+  left                : 19px;
+  position            : absolute;
+  top                 : 65px;
+  transform           : rotate(0deg);
+  width               : 173px;
+}
+.voluntopiacasestudyv2 .sh-uvWKHH {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  font-family         : Fjalla One, Helvetica, Arial, serif;
+  font-size           : 208.1px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 0px;
+  letter-spacing      : 0.00px;
+  line-height         : 262.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 211px;
+}
+.voluntopiacasestudyv2 .screen-shot-2020-04-28-at-2-12-23-pm-Tj0SKq {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 495px;
+  margin-right        : 37.0px;
+  margin-top          : 100px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 829px;
+}
+.voluntopiacasestudyv2 .the-future-9sJ3do {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 113px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 76px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .after-assessing-our-VaLalz {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  height              : auto;
+  left                : 114px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 185px;
+  transform           : rotate(0deg);
+  width               : 1252px;
+}
+.voluntopiacasestudyv2 .looking-back-if-i-h-ZEkvRD {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  height              : auto;
+  left                : 114px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 211px;
+  transform           : rotate(0deg);
+  width               : 1252px;
+}
+.voluntopiacasestudyv2 .our-audience-vOERhQ {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 132px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 37px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .auto-flex1-gn1R54 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 1px;
+  margin-top          : 1.0px;
+  position            : relative;
+  width               : 6px;
+}
+.voluntopiacasestudyv2 {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 9530px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.voluntopiacasestudyv2 .group-6-xfpve4 {
+  background-color    : rgba(255,255,255,0);
+  height              : 286px;
+  left                : 75px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 380px;
+}
+.voluntopiacasestudyv2 .group-11-qXnvno {
+  background-color    : rgba(255,255,255,0);
+  height              : 348px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 455px;
+}
+.voluntopiacasestudyv2 .rectangle-copy-2-OBYb6N {
+  background-color    : var(--auto-palette-color-4);
+  height              : 1061px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .group-3-vgqNrk {
+  background-color    : rgba(255,255,255,0);
+  height              : 278px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 70px;
+  transform           : rotate(0deg);
+  width               : 371px;
+}
+.voluntopiacasestudyv2 .jessica-lane-PFxQco {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  height              : auto;
+  left                : 328px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 794px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .group-12-aj9u2U {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 348px;
+  margin-left         : 39.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 455px;
+}
+.voluntopiacasestudyv2 .oluntopia-O1rfx1 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(238,106,0,1.0);
+  font-family         : Paprika, Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 197px;
+  letter-spacing      : 0.00px;
+  line-height         : 51.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 174px;
+  transform           : rotate(0deg);
+  width               : 221px;
+}
+.voluntopiacasestudyv2 .style-tile-3-2h3S4B {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 442px;
+  margin-top          : 50px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 504px;
+}
+.voluntopiacasestudyv2 .stye-tile-1-v4A4OC {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 382px;
+  margin-left         : 110px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 521px;
+}
+.voluntopiacasestudyv2 .style-tile-2-LcbYOl {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 360px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 582px;
+}
+.voluntopiacasestudyv2 .and-then-progressed-1OjSid {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-right        : 392.86px;
+  margin-top          : 170px;
+  min-height          : 64px;
+  min-width           : 791px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .artboard-3-2x-100-pDPxp9 {
+  background-color    : rgba(255,255,255,0);
+  height              : 495px;
+  left                : 355px;
+  position            : absolute;
+  top                 : 1119px;
+  transform           : rotate(0deg);
+  width               : 693px;
+}
+.voluntopiacasestudyv2 .artboard-2-2x-100-yECkxp {
+  background-color    : rgba(255,255,255,0);
+  height              : 592px;
+  left                : 669px;
+  position            : absolute;
+  top                 : 477px;
+  transform           : rotate(0deg);
+  width               : 520px;
+}
+.voluntopiacasestudyv2 .the-audience-we-are-5yP5em {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  height              : auto;
+  left                : 127px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 209px;
+  transform           : rotate(0deg);
+  width               : 1190px;
+}
+.voluntopiacasestudyv2 .copyright-251-2020-shi-blb3zI {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  height              : auto;
+  left                : 379px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 899px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .screen-shot-2020-04-28-at-1-59-49-pm-KXBBP7 {
+  background-color    : rgba(255,255,255,0);
+  height              : 245px;
+  left                : 308px;
+  position            : absolute;
+  top                 : 517px;
+  transform           : rotate(0deg);
+  width               : 308px;
+}
+.voluntopiacasestudyv2 .my-final-design-deci-0KB9GZ {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-right        : 612.86px;
+  margin-top          : 50px;
+  min-height          : 64px;
+  min-width           : 571px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .when-i-volunteer-i-TQPoPD {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 277px;
+  letter-spacing      : 1.84px;
+  line-height         : 28.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 858px;
+  transform           : rotate(0deg);
+  width               : 370px;
+}
+.voluntopiacasestudyv2 .rectangle-53xfC1 {
+  background-color    : var(--auto-palette-color-4);
+  height              : 498px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1440px;
+}
+.voluntopiacasestudyv2 .our-challenge-aeClj8 {
+  background-color    : rgba(255,255,255,0);
+  height              : auto;
+  left                : 165px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 103px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .the-approach-4xthA2 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-right        : 550.11px;
+  margin-top          : 66px;
+  min-height          : 106px;
+  min-width           : 530px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .to-build-a-platform-CZGdMX {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  height              : auto;
+  left                : 166px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 249px;
+  transform           : rotate(0deg);
+  width               : 1110px;
+}
+.voluntopiacasestudyv2 .exploratory-research-ISzMYZ {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  min-height          : 314px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 489px;
+}
+.voluntopiacasestudyv2 .hi-fidelity-designs-PmCmhm {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 113px;
+  min-height          : 314px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 489px;
+}
+.voluntopiacasestudyv2 .screen-shot-2020-04-28-at-2-00-51-pm-IasISs {
+  background-color    : rgba(255,255,255,0);
+  height              : 245px;
+  left                : 765px;
+  position            : absolute;
+  top                 : 517px;
+  transform           : rotate(0deg);
+  width               : 308px;
+}
+.voluntopiacasestudyv2 .sarah-boulders-zxhvdR {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  height              : auto;
+  left                : 750px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 794px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .u201c-we-really-work-hard-vKvueO {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 734px;
+  letter-spacing      : 1.84px;
+  line-height         : 28.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 858px;
+  transform           : rotate(0deg);
+  width               : 370px;
+}
+.voluntopiacasestudyv2 .we-put-together-a-co-41DJUT {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 78.0px;
+  margin-top          : 34px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 1252px;
+}
+.voluntopiacasestudyv2 .artboard-1-2x-100-ULocx5 {
+  background-color    : rgba(255,255,255,0);
+  height              : 559px;
+  left                : 175px;
+  position            : absolute;
+  top                 : 491px;
+  transform           : rotate(0deg);
+  width               : 391px;
+}
+.voluntopiacasestudyv2 .untitled-qhaST2 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1080px;
+  margin-top          : 56px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 1920px;
+}
+.voluntopiacasestudyv2 .portfolio-o3Wpg3 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  margin-bottom       : 33.0px;
+  margin-left         : 547px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 121px;
+}
+.voluntopiacasestudyv2 .github-X4KuWx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 34.0px;
+  margin-left         : 29px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.voluntopiacasestudyv2 .about-iyuwYD {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-family         : Biryani, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+  margin-bottom       : 33.0px;
+  margin-left         : 28px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 83px;
+}
+.voluntopiacasestudyv2 .linkedin-M686Cy {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-end;
+  margin-bottom       : 34.0px;
+  margin-left         : 31px;
+  min-width           : 19px;
+  padding             : 3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .shape-BmlxxL {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.voluntopiacasestudyv2 .behance-network-V5eMy9 {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-start;
+  margin-bottom       : 34.0px;
+  margin-left         : 31px;
+  padding             : 0 3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.voluntopiacasestudyv2 .shape-P8qvpY {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 3px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 3px;
+}
+.voluntopiacasestudyv2 .shape-j1ABPL {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-left         : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 8px;
+}
+.voluntopiacasestudyv2 .shape-mAcloa {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 8px;
+  margin-bottom       : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.voluntopiacasestudyv2 .path-RVb9PF {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 1.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.voluntopiacasestudyv2 .shape-HLDVv6 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 6px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.voluntopiacasestudyv2 .basketball-PloRhE {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 34.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.voluntopiacasestudyv2 .auto-flex-sFxxvx {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 3px;
+}
+.voluntopiacasestudyv2 .communications-r0PDjJ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 17px;
+  margin-bottom       : 34.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 23px;
+}
+.voluntopiacasestudyv2 .facebook-UkkQzr {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-bottom       : 34.0px;
+  margin-left         : 31px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
