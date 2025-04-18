@@ -2021,7 +2021,7 @@ a:hover
 }
 .anima-component-wrapper.anima-not-ready,
 .anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
+  visibility          : visible;
 }
 .anima-listeners-active-click,
 .anima-listeners-active-click * {
